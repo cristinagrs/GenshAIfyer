@@ -21,12 +21,10 @@ close enough to Genshin though, probably due to model bias.
 
 Example showing the model evolving from this (same prompt, same seed):
 
-![raw stable diffusion 3 medium](assets/img0.png)
-
-<img src="assets/img0.png" alt="drawing" width="200" height="200"/>
+<img src="assets/img0.png" alt="drawing" width="512" height="512"/>
 
 To this, after fine-tuning:
-![finetuned stable diffusion 3 medium](assets/img0_finetune1.png)
+<img src="assets/img0_finetune1.png" alt="drawing" width="512" height="512"/>
 
 **Hypothesis**: I probably need to pretrain the whole model using a large Genshin
 Impact dataset in order to reach the desired results. But I will try other methods
