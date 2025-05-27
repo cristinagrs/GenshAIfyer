@@ -1,4 +1,4 @@
-# GenshAIfyer
+# GenshAI
 Hi! This is a personal project in progress. The objective is merely for fun and all
 rights of the datasets are from ©MiHoYo, the Genshin Impact&#39;s game
 developers (link to their website: [mihoyo](https://www.mihoyo.com/en/)).
